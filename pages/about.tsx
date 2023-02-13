@@ -17,11 +17,11 @@ export default function Home() {
       </Head>
 
       <NavBar/>
-      
+
       <main className={styles.main}>
         
         <h1 className={styles.description}>
-          ir a <Link href="/about">About</Link>
+          ir a <Link href="/">Home</Link>
         </h1>
 
         <p>

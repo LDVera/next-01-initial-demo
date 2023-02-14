@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import { NavBar } from '../components/NavBar.js'
+import { NavBar } from '../components/NavBar.jsx'
 import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
 
